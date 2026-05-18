@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 David A. Reyes U. | Software Engineer (Backend-Core)<br><br>Informatics Engineering student focused on building secure back-ends, robust APIs, and automated data architectures. <br><br>* Driven by competitive programming logic and algorithm optimization.<br>* Proficient in Python, C++, Java, and expanding into the Node.js/React ecosystem.<br>* Experienced in relational database modeling, cloud data pipelines, and security auditing (RBAC).<br>* Passionate about backend engineering, containerization, and structural logic over UI tasks.<br><br>Currently working on automated financial data processing and secure cloud integrations.
 
 
