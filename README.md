@@ -1,11 +1,38 @@
-# about me:
-Software Engineering student at focused on building secure back-ends, robust APIs, and automated data architectures. <br><br>* Driven by competitive programming logic and algorithm optimization.<br>* Proficient in Python, C++, Java, and expanding into the Node.js/React ecosystem.<br>* Experienced in relational database modeling, cloud data pipelines, and security auditing (RBAC).<br>* Passionate about backend engineering, containerization, and structural logic.<br><br>Currently working on automated financial data processing and secure cloud integrations.
+<div align="center">
 
+# Hi, I'm David
 
-## socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/d_reye5)[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/jxrri)
+**Software engineering student building secure back ends, robust APIs, and automated data pipelines.**
 
-# skillful in:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Elemental](https://img.shields.io/badge/Elementor-92003B.svg?style=for-the-badge&logo=Elementor&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![n8n](https://img.shields.io/badge/n8n-Workflows-orange?style=for-the-badge&logo=n8n) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
----
+[![Codeforces](https://img.shields.io/badge/Codeforces-jxrri-1f2328?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jxrri)
+[![Instagram](https://img.shields.io/badge/Instagram-d__reye5-1f2328?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/d_reye5)
+
+</div>
+
+<br>
+
+## About
+
+- Driven by competitive programming logic and algorithm optimization.
+- Proficient in Python, C++, and Java, and expanding into the Node.js and React ecosystem.
+- Experienced in relational database modeling, cloud data pipelines, and security auditing (RBAC).
+- Passionate about backend engineering, containerization, and structural logic.
+
+**Now:** working on automated financial data processing and secure cloud integrations.
+
+## Featured work
+
+| Project | What it does |
+| :--- | :--- |
+| [**solver**](https://github.com/jxrri/solver) | Agent skill that takes a bug from diagnosis to an opened pull request, with every candidate fix scored on evidence. |
+| [**conciliate**](https://github.com/jxrri/conciliate) | Agent skill that reconciles a project's guidance into one current, sourced digest. |
+
+## Toolbox
+
+| Area | Stack |
+| :--- | :--- |
+| Languages | <img src="https://skillicons.dev/icons?i=cpp,c,py,java,go,js,html" alt="C++, C, Python, Java, Go, JavaScript, HTML5" height="36"> |
+| Back end and data | <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql" alt="Node.js, PostgreSQL, MySQL" height="36"><br><sub>Pandas · NumPy · n8n · Apache</sub> |
+| Front end | <img src="https://skillicons.dev/icons?i=react" alt="React" height="36"> |
+| Cloud and infrastructure | <img src="https://skillicons.dev/icons?i=aws,docker,github" alt="AWS, Docker, GitHub" height="36"><br><sub>Cisco</sub> |
+| Design | <img src="https://skillicons.dev/icons?i=figma,ps,ae" alt="Figma, Photoshop, After Effects" height="36"><br><sub>Canva · Elementor</sub> |
