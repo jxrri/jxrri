@@ -5,7 +5,6 @@
 **Software engineering student building secure back ends, robust APIs, and automated data pipelines.**
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-jxrri-1f2328?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jxrri)
-[![Instagram](https://img.shields.io/badge/Instagram-d__reye5-1f2328?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/d_reye5)
 
 </div>
 
